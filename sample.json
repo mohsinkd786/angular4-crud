@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "title": "Angular Sample",
+      "category": "UI",
+      "id": 1
+    },
+    {
+      "title": "moh",
+      "category": "wear",
+      "id": 2
+    }
+  ]
+}
